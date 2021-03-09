@@ -1,1 +1,1 @@
-# TeensInAI---Data-Science-Workshop-
+# TeensInAI - Data Science Workshop
